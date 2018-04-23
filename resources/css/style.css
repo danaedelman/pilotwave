@@ -1,0 +1,176 @@
+html {
+
+}
+
+body {
+  font-size: 30px;
+
+}
+
+.font1 {
+  font-family: 'Tajawal', sans-serif;
+color: #5d644a;
+
+text-shadow: .25px .75px 1px #1F3F7B;
+}
+.font2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #5d644a;
+
+  text-shadow: .25px .75px 1px #1F3F7B;
+}
+.font3 {
+  font-family: 'Noto Serif', serif;
+  color: #5d644a;
+  font-size: 50px;
+
+  text-shadow: .25px .75px 1px #1F3F7B;
+}
+.font4 {
+  font-family: 'Indie Flower', cursive;
+  color: #e46a44;
+
+  text-shadow: .25px .75px 1px #1F3F7B;
+}
+.font5 {
+  font-family: 'Crimson Text', serif;
+  color: #5d644a;
+
+  text-shadow: .25px .75px 1px #1F3F7B;
+
+}
+.font6 {
+  font-family: 'Josefin Sans', sans-serif;
+
+color: #e46a44;
+text-shadow: .25px .75px 1px #1F3F7B;
+}
+.font7 {
+  font-family: 'Cormorant Garamond', serif;
+
+color: #5d644a;
+text-shadow: .25px .75px 1px #1F3F7B;
+font-size: 63px;
+}
+.font8 {
+  font-family: 'Crete Round', serif;
+
+  color: #e46a44;
+  text-shadow: .25px .75px 1px #1F3F7B;
+  font-size: 50px;
+}
+.font9 {
+  font-family: 'Suez One', serif;
+  color: #e46a44;
+  text-shadow: .25px .75px 1px #1F3F7B;
+
+}
+
+.font10 {
+  font-family: 'Forum', cursive;
+color: #5d644a;
+  text-shadow: .25px .75px 1px #1F3F7B;
+
+}
+
+  .font12 {
+    font-family: 'Lustria', serif;
+    text-shadow: .25px .75px 1px #1F3F7B;
+     color: #5d644a;
+
+}
+
+
+.font13 {
+color: #e46a44;
+font-family: 'Noto Serif', serif;
+text-shadow: .25px .75px 1px #1F3F7B;
+font-size: 57px;
+
+
+}
+
+.font14 {
+
+   font-family: 'Marcellus', serif;
+
+    text-shadow: .25px .75px 1px #1F3F7B;
+    color: #5d644a;
+  }
+  .font15 {
+
+     font-family: 'Marcellus', serif;
+
+      color: #e46a44;
+      text-shadow: .25px .75px 1px #1F3F7B;
+    }
+
+
+.font16 {
+    font-family: 'Cormorant', serif;
+
+    color: #5d644a;
+    text-shadow: .25px .75px 1px #1F3F7B;
+  }
+
+.font17 {
+    font-family: 'Cormorant', serif;
+
+    color: #e46a44;
+    text-shadow: .25px .75px 1px #1F3F7B;
+
+}
+
+.font18 {
+     font-family: 'Average', serif;
+
+    color: #5d644a;
+    text-shadow: .25px .75px 1px #1F3F7B;
+  }
+
+.font19 {
+  font-family: 'Average', serif;
+   color: #e46a44;
+    text-shadow: .25px .75px 1px #1F3F7B;
+
+}
+
+.font20 {
+  font-family: 'Radley', serif;
+
+   color: #5d644a;
+    text-shadow: .25px .75px 1px #1F3F7B;
+
+}
+.font21 {
+   font-family: 'Radley', serif;
+
+   color: #e46a44;
+    text-shadow: .25px .75px 1px #1F3F7B;
+
+}
+
+.font22 {
+  font-family: 'El Messiri', sans-serif;
+
+
+   color: #5d644a;
+    text-shadow: .25px .75px 1px #1F3F7B;
+    font-size: 53px;
+  }
+
+/* other rust optionss */
+/* color: #e48444; */
+/* color: #9f4a12; */
+/* color: #ad5115; */
+/* color: #9d3e2c; */
+
+
+
+
+.font11 {
+  font-family: 'Roboto', sans-serif;
+  color: #607914;
+  text-shadow: .25px .75px 1px #1F3F7B;
+
+}

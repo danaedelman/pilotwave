@@ -1,0 +1,82 @@
+html {
+
+}
+
+body {
+
+}
+
+.maincontainer {
+  background-color: #607914;;
+  height: 1500px;
+  margin: auto;
+}
+
+/* .insidecontainer {
+  width: 70%;
+  height: 550px;
+  background-color: white;
+
+  margin: auto;
+  padding-top: 50px; */
+
+
+  .insidecontainer {
+
+    width: 70%;
+    height: 850px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+    top: 25px;
+  }
+
+
+Header {
+  /* background-image: url(/Users/ProTools/Desktop/projects/pilotwave/resources/images/swirl2.png),linear-gradient(to bottom right, white, #c9ddfc); */
+  background-repeat: no-repeat;
+  height: 280px;
+  width: 100%;
+  /* background-color: #D7E5FE; */
+  /* border-bottom: 4px solid #D7E5FE; */
+  /* background: linear-gradient(to bottom right, white, #c9ddfc; */
+
+
+}
+
+.logo {
+  height: 480px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.content-container {
+  padding-left: 400px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 35px;
+  line-height: .55;
+  margin-top: 100px;
+  /* background-color: #DD6200; */
+  /* background-color: #FFE8D3; */
+  /* background-color: #d15e00; */
+
+  height: 130px;
+
+}
+
+.content-container p {
+  padding-top: 10px;
+  /* color: #130c9b; */
+  color: #607914;
+  /* color: white; */
+
+}
+
+.dana {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 70px;
+  font-family: 'Palanquin Dark', sans-serif;
+  color: red;
+
+}
