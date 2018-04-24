@@ -159,6 +159,38 @@ font-size: 57px;
     font-size: 53px;
   }
 
+.font23 {
+  font-family: 'Aladin', cursive;
+  color: #e46a44;
+   text-shadow: .25px .75px 1px #1F3F7B;
+
+}
+
+.font24 {
+  font-family: 'Yeseva One', cursive;
+  color: #e46a44;
+   text-shadow: .25px .75px 1px #1F3F7B;
+   font-size: 48px;
+
+}
+.font25 {
+
+  font-family: 'Mate', serif;
+   color: #5d644a;
+    text-shadow: .25px .75px 1px #1F3F7B;
+    font-size: 53px;
+  }
+
+  .font26 {
+
+    font-family: 'Jacques Francois', serif;
+
+
+     color: #5d644a;
+      text-shadow: .25px .75px 1px #1F3F7B;
+      font-size: 57px;
+    }
+
 /* other rust optionss */
 /* color: #e48444; */
 /* color: #9f4a12; */
